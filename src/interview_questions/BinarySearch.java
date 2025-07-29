@@ -12,7 +12,7 @@ public class BinarySearch {
 		        int h = a.length - 1;
 		        boolean flag = false;*/
 		Scanner sc= new Scanner(System.in);
-		System.out.println("Enter the sorted array elements");
+		System.out.println("Enter the sorted elements");
 		int n = sc.nextInt();
 		System.out.println("enter the elements");
 		int[] a= new int[n];
